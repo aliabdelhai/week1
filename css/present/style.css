@@ -1,0 +1,32 @@
+.parent{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    position: absolute;
+}
+
+.child{
+    background-color: blue;
+    position: absolute;
+}
+
+#first{
+    width: 50px;
+    height: 80px;
+}
+#second{
+    width: 420px;
+    height: 80px;
+    right: 0;
+}
+#third{
+    width: 50px;
+    height: 390px;
+    bottom: 0;
+}
+#fourth{
+    width: 420px;
+    height: 390px;
+    bottom: 0;
+    right: 0;
+}

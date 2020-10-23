@@ -1,0 +1,55 @@
+.parent{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(76, 78, 187);
+    position: absolute;
+
+}
+.child{
+    background-color: rgb(197, 182, 182);
+    width: 30px;
+    position: absolute;
+    margin: 10px;
+    bottom: 0;
+}
+#first{
+    height: 30px;
+}
+#second{
+    height: 120px;
+    left: 60px;
+
+}
+#third{
+    height: 200px;
+    left: 120px;
+
+} 
+#fourth{
+    height: 170px;
+    left: 180px;
+
+}
+#fifth{
+    height: 140px;
+    left: 240px;
+
+}
+#sixth{
+    height: 80px;
+    left: 300px;
+
+}
+.y{
+    margin-left: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+.x{
+    position: absolute;
+    font-size: large;
+    font-weight: bold;
+    bottom: 0;
+    right: 0;
+    margin-right: 10px;
+}
